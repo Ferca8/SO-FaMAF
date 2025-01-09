@@ -7,7 +7,7 @@
 </h1>
 
 ## Índice del contenido
-- [**Laboratorio 00**: *"Shellscripting"*](https://github.com/Ferca8/AyED2-FaMAF/tree/main/laboratorio/lab00-repaso-de-c)
-- [**Laboratorio 01**: *"myBash"*](https://github.com/Ferca8/AyED2-FaMAF/tree/main/laboratorio/lab01-arreglos-archivos-modulos)
-- [**Laboratorio 02**: *"Semáforos en XV6"*](https://github.com/Ferca8/AyED2-FaMAF/tree/main/laboratorio/lab02-ordenacion)
-- [**Laboratorio 03**: *"Planificador de procesos"*](https://github.com/Ferca8/AyED2-FaMAF/tree/main/laboratorio/lab03-matrices)
+- [**Laboratorio 00**: *"Shellscripting"*](./lab00-shellscripting/)
+- [**Laboratorio 01**: *"myBash"*](./lab01-mybash/)
+- [**Laboratorio 02**: *"Semáforos en XV6"*](./lab02-semaforos-en-xv6/)
+- [**Laboratorio 03**: *"Planificador de procesos"*](./lab03-planificador-de-xv6/)
